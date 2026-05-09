@@ -1,0 +1,61 @@
+
+========================================
+STOCK MARKET DATA ANALYZER REPORT
+========================================
+
+Ticker Symbol: TSLA
+
+Start Date: 2024-03-2
+End Date: 2026-03-2
+
+Generated On:
+2026-05-09 15:10:28
+
+========================================
+PRICE ANALYSIS
+========================================
+
+Latest Closing Price: 402.51
+
+Highest Closing Price: 489.88
+
+Lowest Closing Price: 142.05
+
+Average Closing Price: 311.32
+
+========================================
+RISK ANALYSIS
+========================================
+
+Annual Volatility: 0.6286
+
+========================================
+TREND ANALYSIS
+========================================
+
+Current Trend:
+Bearish Downtrend
+
+========================================
+GENERATED FILES
+========================================
+
+CSV Data:
+data/TSLA_stock_data.csv
+
+Closing Price Chart:
+images/TSLA_closing_price.png
+
+Moving Average Chart:
+images/TSLA_moving_average.png
+
+Daily Returns Chart:
+images/TSLA_daily_returns.png
+
+========================================
+DISCLAIMER
+========================================
+
+This project is created only for educational purposes.
+
+This is NOT financial advice.
