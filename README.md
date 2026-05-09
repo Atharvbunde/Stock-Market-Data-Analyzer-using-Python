@@ -302,3 +302,18 @@ By building this project, I learned:
 This project is created only for educational and learning purposes.
 
 This is NOT financial advice.
+---
+
+# Author
+
+## Atharv Vishnudas Bunde
+Mechatronics Engineering Student
+
+### Connect With Me
+- GitHub: https://github.com/Atharvbunde
+- LinkedIn: https://www.linkedin.com/in/atharv-bunde-602361400/
+- Instagram: https://www.instagram.com/atharv___2005_/
+
+---
+
+# Mentor
