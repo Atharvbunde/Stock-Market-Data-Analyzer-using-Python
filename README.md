@@ -196,47 +196,28 @@ SMA = \frac{P_1 + P_2 + P_3 + ... + P_n}{n}
 
 ---
 
-# Screenshots
+## Screenshots
 
-## Project Folder Structure
+### Project Folder Structure
+![Folder Structure](images/Folder_Structure.png)
 
-![Folder Structure](Folder_Structure.png)
+### Terminal Output
+![Terminal Output](images/Terminal_Output.png)
 
----
+### CSV Dataset Output
+![CSV Data](images/CSV_data.png)
 
-## Terminal Output
+### Closing Price Chart
+![Closing Price](images/TSLA_closing_price.png)
 
-![Terminal Output](Terminal_Output.png)
+### Daily Returns Chart
+![Daily Returns](images/TSLA_daily_returns.png)
 
----
+### Moving Average Chart
+![Moving Average](images/TSLA_moving_average.png)
 
-## CSV Dataset Output
-
-![CSV Data](CSV_data.png)
-
----
-
-## Tesla Closing Price Chart
-
-![Closing Price](TSLA_closing_price.png)
-
----
-
-## Tesla Daily Returns Chart
-
-![Daily Returns](TSLA_daily_returns.png)
-
----
-
-## Tesla Moving Average Chart
-
-![Moving Average](TSLA_moving_average.png)
-
----
-
-## Final Report Output
-
-![Report](Report_Txt.png)
+### Final Report Output
+![Report](images/Report_Txt.png)
 
 ---
 
